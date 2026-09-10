@@ -1,0 +1,2 @@
+# Dependências do projeto.
+# Vazio de propósito neste primeiro passo — vamos acrescentar FastAPI, Redis etc. depois.

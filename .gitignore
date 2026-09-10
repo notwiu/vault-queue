@@ -1,0 +1,21 @@
+# Ambiente virtual — nunca vai para o Git
+.venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Segredos e variáveis locais
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Sistema
+Thumbs.db
+.DS_Store
