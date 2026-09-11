@@ -1,2 +1,4 @@
-fastapi
-uvicorn
+fastapi==0.115.12
+uvicorn==0.34.2
+celery==5.4.0
+redis==5.2.1
